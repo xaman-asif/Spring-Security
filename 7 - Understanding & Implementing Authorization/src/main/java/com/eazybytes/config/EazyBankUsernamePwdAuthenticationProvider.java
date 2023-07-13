@@ -23,7 +23,7 @@ public class EazyBankUsernamePwdAuthenticationProvider implements Authentication
 
 	@Autowired
 	private CustomerRepository customerRepository;
-	
+
 	@Autowired
 	private PasswordEncoder passwordEncoder;
 

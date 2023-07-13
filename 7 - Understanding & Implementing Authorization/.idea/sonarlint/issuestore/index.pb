@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-o
-?src/main/java/com/eazybytes/constants/ApplicationConstants.java,f\3\f3504b981645968aa423770f7b5885ece99acca0
 m
 =src/main/java/com/eazybytes/controller/BalanceController.java,c\5\c581b4fd3fa7cf50d5ec08e41fd85ab8c0ecd510
 k
@@ -23,8 +21,6 @@ j
 .src/main/java/com/eazybytes/model/Contact.java,1\3\1345ef48f569167cc4d495c5d677e0027f41e8da
 \
 ,src/main/java/com/eazybytes/model/Loans.java,2\a\2ad8c8d95fd89a22b327def8c6056473c25f9e41
-]
--src/main/java/com/eazybytes/model/Notice.java,7\9\791093e189b6634e0d044ffca4464e422d66e0dc
 j
 :src/main/java/com/eazybytes/repository/LoanRepository.java,2\e\2e1e4208d27990b6555518915d68c356125234aa
 k
@@ -39,11 +35,5 @@ n
 >src/main/java/com/eazybytes/repository/CustomerRepository.java,1\e\1e86be1afd703835d08a647642b6ea98c30c75d6
 l
 <src/main/java/com/eazybytes/repository/NoticeRepository.java,8\5\85ae558c7b25068ac2f921ba7b781b0382c2e55a
-m
-=src/main/java/com/eazybytes/controller/AccountController.java,9\3\93408f700a4371fc8eb86fb1a6ce52af9c23027c
 _
 /src/main/java/com/eazybytes/model/Customer.java,3\d\3d511ceb8754a10c6ce0d89b183be1c82419907f
-k
-;src/main/java/com/eazybytes/config/EazyBankUserDetails.java,b\6\b6078305757511bca58ec5ecb111b4484608a952
-g
-7src/main/java/com/eazybytes/model/SecurityCustomer.java,5\d\5d4f9e71b9b5d00bb5eefd97832a9854348a3d45
