@@ -37,3 +37,7 @@ l
 <src/main/java/com/eazybytes/repository/NoticeRepository.java,8\5\85ae558c7b25068ac2f921ba7b781b0382c2e55a
 _
 /src/main/java/com/eazybytes/model/Customer.java,3\d\3d511ceb8754a10c6ce0d89b183be1c82419907f
+m
+=src/main/java/com/eazybytes/config/ProjectSecurityConfig.java,1\c\1cac64f37d21058b367e569cb8887afd37c94322
+k
+;src/main/java/com/eazybytes/EazyBankBackendApplication.java,d\3\d37ba9f307db954ed8edbe4a0444d4c77ba5f7ed
